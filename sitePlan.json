@@ -1,0 +1,49 @@
+{
+  "businessName": "TARDY-J Enterprise",
+  "industry": "Manufacturing",
+  "tone": "professional",
+  "tagline": "Quality Manufacturing Solutions for Nigeria's Growing Industries",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "TARDY-J Enterprise - Your Trusted Manufacturing Partner in Abuja. Delivering excellence in manufacturing solutions across Nigeria. Located in Karu, serving businesses nationwide with precision, quality, and reliability.",
+      "imagePrompt": "Modern Nigerian manufacturing facility exterior with sleek industrial building, clean production environment, workers in professional safety gear, Nigerian flag visible, bright daylight, professional corporate photography style, sharp focus on quality and precision",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "TARDY-J Enterprise is a leading manufacturing company based in Karu, Abuja, committed to delivering high-quality manufacturing solutions to businesses across Nigeria. Our state-of-the-art facility combines modern technology with skilled craftsmanship to produce superior products that meet international standards. We understand the unique needs of Nigerian businesses and pride ourselves on our ability to deliver reliable, cost-effective manufacturing solutions on time, every time. With our strategic location in Abuja, we serve clients across all regions of Nigeria, contributing to the growth and development of local industries.",
+      "imagePrompt": "Professional Nigerian manufacturing workspace interior, organized production floor with quality control equipment, diverse team of skilled Nigerian workers collaborating, modern machinery, clean and well-lit environment, sense of precision and teamwork, industrial excellence",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "At TARDY-J Enterprise, we offer comprehensive manufacturing services tailored to meet diverse industry needs:\n\n• Custom Manufacturing Solutions - Bespoke production services designed to your exact specifications\n• Quality Control & Assurance - Rigorous testing and inspection protocols ensuring consistent excellence\n• Product Development - From concept to completion, we bring your ideas to life\n• Supply Chain Management - Efficient logistics and distribution solutions\n• Technical Consultation - Expert guidance on manufacturing processes and optimization\n\nWe work with businesses across multiple sectors, providing reliable manufacturing partnerships that drive growth and success.",
+      "imagePrompt": "Collage of Nigerian manufacturing processes, detailed shots of precision machinery in action, quality inspection procedures, diverse product assembly lines, skilled technicians operating equipment, charts showing quality metrics, professional industrial photography with emphasis on detail and accuracy",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose TARDY-J Enterprise",
+      "copy": "Nigerian Quality, Global Standards\n\nWhen you partner with TARDY-J Enterprise, you gain more than just a manufacturing supplier - you gain a committed partner in your business success.\n\n✓ Local Expertise - Deep understanding of Nigerian market dynamics and business needs\n✓ Quality Commitment - Every product meets rigorous quality standards before delivery\n✓ Timely Delivery - We respect deadlines and ensure your production schedule stays on track\n✓ Competitive Pricing - Cost-effective solutions without compromising on quality\n✓ Dedicated Support - Our team is always available to address your concerns and requirements\n✓ Strategic Location - Based in Abuja with easy access to all major Nigerian cities",
+      "imagePrompt": "Professional Nigerian business handshake in modern manufacturing office, diverse team members reviewing quality reports with satisfied expressions, backdrop showing organized production floor through glass windows, certificates and awards visible on walls, atmosphere of trust and reliability",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to discuss your manufacturing needs? TARDY-J Enterprise is here to help bring your vision to reality.\n\nGet in Touch Today:\n\nVisit our office at Suit 14 Batayas Plaza, Area 11, Abuja, or our main facility in Karu. Call us to schedule a consultation, request a quote, or learn more about how we can support your business growth. Our team is ready to answer your questions and provide the manufacturing solutions you need.\n\nLet's build something great together.",
+      "imagePrompt": "Professional Nigerian business reception area with modern furniture, friendly receptionist at desk, TARDY-J Enterprise branding visible, large windows showing Abuja cityscape, welcoming atmosphere, clean corporate environment, visitors being warmly greeted",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 706 817 9182",
+    "email": "info@tardyj.com.ng",
+    "address": "Suit 14 Batayas Plaza, Area 11, Abuja | Main Facility: Karu, Nigeria",
+    "whatsapp": "https://wa.me/2347068179182"
+  }
+}
