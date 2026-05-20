@@ -1,49 +1,56 @@
 {
-  "businessName": "TARDY-J Enterprise",
-  "industry": "Manufacturing",
-  "tone": "professional",
-  "tagline": "Quality Manufacturing Solutions for Nigeria's Growing Industries",
+  "businessName": "Thank You Mart AgriTech Limited",
+  "industry": "FoodTech & Agricultural Supply Chain",
+  "tone": "Professional, innovative, and trustworthy",
+  "tagline": "Bridging Farms to Tables with Technology",
   "sections": [
     {
       "id": "hero",
       "name": "Hero",
-      "copy": "TARDY-J Enterprise - Your Trusted Manufacturing Partner in Abuja. Delivering excellence in manufacturing solutions across Nigeria. Located in Karu, serving businesses nationwide with precision, quality, and reliability.",
-      "imagePrompt": "Modern Nigerian manufacturing facility exterior with sleek industrial building, clean production environment, workers in professional safety gear, Nigerian flag visible, bright daylight, professional corporate photography style, sharp focus on quality and precision",
+      "copy": "Thank You Mart AgriTech Limited: Transforming Nigeria's Food Supply Chain. We leverage technology to connect farmers directly with consumers, ensuring fresh produce reaches your table faster, safer, and more affordably. Experience the future of food distribution in Nigeria.",
+      "imagePrompt": "Photorealistic aerial view of vibrant Nigerian farmland with lush green crops, modern technology integration showing farmers using tablets in the field, golden hour lighting, with delivery trucks on rural roads connecting to urban markets in the distance, professional commercial photography style",
       "layout": "centered"
     },
     {
       "id": "about",
       "name": "About Us",
-      "copy": "TARDY-J Enterprise is a leading manufacturing company based in Karu, Abuja, committed to delivering high-quality manufacturing solutions to businesses across Nigeria. Our state-of-the-art facility combines modern technology with skilled craftsmanship to produce superior products that meet international standards. We understand the unique needs of Nigerian businesses and pride ourselves on our ability to deliver reliable, cost-effective manufacturing solutions on time, every time. With our strategic location in Abuja, we serve clients across all regions of Nigeria, contributing to the growth and development of local industries.",
-      "imagePrompt": "Professional Nigerian manufacturing workspace interior, organized production floor with quality control equipment, diverse team of skilled Nigerian workers collaborating, modern machinery, clean and well-lit environment, sense of precision and teamwork, industrial excellence",
+      "copy": "Thank You Mart AgriTech Limited (also known as Thank You Mart FarmTech Nigeria) is revolutionizing the Nigerian food supply chain through innovative technology solutions. Based in Karu, Abuja, we are dedicated to eliminating inefficiencies in the farm-to-table journey. Our platform connects smallholder farmers directly with consumers, retailers, and food businesses, reducing waste, ensuring freshness, and creating fair value for all stakeholders. With deep expertise in food supply chain management, we understand the unique challenges of the Nigerian agricultural sector and have built solutions that work for our local context. We believe that technology can transform how Nigeria feeds itself—making nutritious food accessible and affordable while empowering our farming communities.",
+      "imagePrompt": "Professional photorealistic image of a modern Nigerian agricultural hub with farmers, technology workers, and fresh produce displayed on clean tables, natural daylight streaming through large windows, mix of traditional Nigerian farming elements with modern digital tablets and logistics equipment, warm and inviting atmosphere",
       "layout": "split"
     },
     {
       "id": "services",
       "name": "Our Services",
-      "copy": "At TARDY-J Enterprise, we offer comprehensive manufacturing services tailored to meet diverse industry needs:\n\n• Custom Manufacturing Solutions - Bespoke production services designed to your exact specifications\n• Quality Control & Assurance - Rigorous testing and inspection protocols ensuring consistent excellence\n• Product Development - From concept to completion, we bring your ideas to life\n• Supply Chain Management - Efficient logistics and distribution solutions\n• Technical Consultation - Expert guidance on manufacturing processes and optimization\n\nWe work with businesses across multiple sectors, providing reliable manufacturing partnerships that drive growth and success.",
-      "imagePrompt": "Collage of Nigerian manufacturing processes, detailed shots of precision machinery in action, quality inspection procedures, diverse product assembly lines, skilled technicians operating equipment, charts showing quality metrics, professional industrial photography with emphasis on detail and accuracy",
+      "copy": "Farm-to-Consumer Direct Supply: We connect you directly with verified farmers across Nigeria, eliminating middlemen and ensuring you get the freshest produce at fair prices. Track your food from farm to your doorstep.\n\nAgricultural Supply Chain Management: Comprehensive supply chain solutions for businesses, restaurants, and retailers. We handle sourcing, quality control, logistics, and timely delivery of farm produce across Nigeria.\n\nFarmer Empowerment Program: We provide smallholder farmers with access to markets, fair pricing, training on best agricultural practices, and technology tools to improve their yields and incomes.\n\nFresh Produce Marketplace: Our digital platform offers a wide variety of fresh fruits, vegetables, grains, and other farm products delivered directly to homes and businesses in Abuja and surrounding areas.\n\nQuality Assurance & Food Safety: Every product in our supply chain undergoes rigorous quality checks. We maintain cold chain logistics and ensure food safety standards are met from harvest to delivery.\n\nB2B Agricultural Solutions: Tailored supply solutions for hotels, restaurants, supermarkets, and food processing companies requiring consistent quality and reliable delivery schedules.",
+      "imagePrompt": "Professional grid layout photorealistic images showing: fresh Nigerian vegetables in clean crates, farmer with smartphone in cassava farm, modern delivery van with company branding, quality control inspector examining tomatoes, warehouse with organized produce, business meeting between farmer and buyer, bright natural lighting throughout",
       "layout": "grid"
     },
     {
-      "id": "why-choose-us",
-      "name": "Why Choose TARDY-J Enterprise",
-      "copy": "Nigerian Quality, Global Standards\n\nWhen you partner with TARDY-J Enterprise, you gain more than just a manufacturing supplier - you gain a committed partner in your business success.\n\n✓ Local Expertise - Deep understanding of Nigerian market dynamics and business needs\n✓ Quality Commitment - Every product meets rigorous quality standards before delivery\n✓ Timely Delivery - We respect deadlines and ensure your production schedule stays on track\n✓ Competitive Pricing - Cost-effective solutions without compromising on quality\n✓ Dedicated Support - Our team is always available to address your concerns and requirements\n✓ Strategic Location - Based in Abuja with easy access to all major Nigerian cities",
-      "imagePrompt": "Professional Nigerian business handshake in modern manufacturing office, diverse team members reviewing quality reports with satisfied expressions, backdrop showing organized production floor through glass windows, certificates and awards visible on walls, atmosphere of trust and reliability",
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to transform your food sourcing experience? Whether you're a consumer looking for fresh farm produce, a business seeking reliable agricultural supply, or a farmer wanting to expand your market reach, Thank You Mart AgriTech Limited is here to serve you. Visit our office in Abuja, call us, or send a message via WhatsApp for immediate response. We're committed to making Nigeria's food supply chain work better for everyone.",
+      "imagePrompt": "Professional photorealistic image of a modern Nigerian office reception area with Thank You Mart branding, friendly staff at a clean desk, agricultural products tastefully displayed, large windows showing Abuja cityscape, welcoming and professional atmosphere, natural lighting",
+      "layout": "default"
+    },
+    {
+      "id": "testimonials",
+      "name": "What Our Clients Say",
+      "copy": "\"Thank You Mart has completely changed how we source produce for our restaurant. The quality is consistently excellent, delivery is always on time, and we know exactly where our food comes from. Our customers notice the difference in freshness.\" - Chef Amina, The Garden Restaurant, Abuja\n\n\"As a farmer in Nasarawa State, Thank You Mart gave me direct access to buyers in Abuja. I no longer lose money to middlemen, and I get fair prices for my harvest. The training they provided also improved my farming techniques.\" - Musa Ibrahim, Vegetable Farmer\n\n\"For our supermarket chain, reliable supply is everything. Thank You Mart AgriTech has never let us down. Their supply chain management is professional, and their technology platform makes ordering and tracking seamless.\" - Mrs. Okonkwo, Procurement Manager, FreshMart Stores",
+      "imagePrompt": "Photorealistic professional portraits of satisfied Nigerian clients: a chef in restaurant kitchen with fresh vegetables, a smiling farmer in his field holding quality produce, a business professional in modern office, each image showing genuine happiness and success, bright professional photography lighting",
       "layout": "cards"
     },
     {
-      "id": "contact",
-      "name": "Contact Us",
-      "copy": "Ready to discuss your manufacturing needs? TARDY-J Enterprise is here to help bring your vision to reality.\n\nGet in Touch Today:\n\nVisit our office at Suit 14 Batayas Plaza, Area 11, Abuja, or our main facility in Karu. Call us to schedule a consultation, request a quote, or learn more about how we can support your business growth. Our team is ready to answer your questions and provide the manufacturing solutions you need.\n\nLet's build something great together.",
-      "imagePrompt": "Professional Nigerian business reception area with modern furniture, friendly receptionist at desk, TARDY-J Enterprise branding visible, large windows showing Abuja cityscape, welcoming atmosphere, clean corporate environment, visitors being warmly greeted",
-      "layout": "centered"
+      "id": "faq",
+      "name": "Frequently Asked Questions",
+      "copy": "How do I order fresh produce from Thank You Mart?\nYou can order through our website at thankyoumart.org, call us at 07068179182, or message us on WhatsApp. We'll confirm your order and schedule delivery based on your location in Abuja and surrounding areas.\n\nWhat areas do you deliver to?\nWe currently deliver across Abuja, Karu, and neighboring communities. For businesses requiring regular bulk supply, we can arrange deliveries to other locations in North Central Nigeria.\n\nHow do you ensure the quality of produce?\nAll our partner farmers are verified and trained in quality standards. We conduct inspections at the farm level, maintain proper storage and cold chain logistics, and perform final quality checks before delivery.\n\nCan I visit your farms?\nYes! We organize farm tours for interested consumers and businesses. Contact us to schedule a visit and see firsthand how your food is grown and our quality processes in action.\n\nDo you work with smallholder farmers?\nAbsolutely. Supporting smallholder farmers is central to our mission. We provide them with market access, fair pricing, training, and technology tools to succeed.\n\nWhat payment methods do you accept?\nWe accept bank transfers, card payments, and mobile money. For businesses, we offer flexible payment terms based on order volume and frequency.\n\nHow quickly can I get my order delivered?\nFor consumers, we typically deliver within 24-48 hours. Businesses on our regular supply program receive deliveries according to their scheduled arrangements.\n\nIs there a minimum order quantity?\nFor individual consumers, we have flexible minimum orders. Businesses and bulk buyers can discuss custom arrangements based on their needs.",
+      "imagePrompt": "Clean, modern photorealistic image of a customer service representative at a computer helping a client, with a backdrop showing organized warehouse with fresh produce, bright professional office environment, Nigerian professional setting, reassuring and helpful atmosphere",
+      "layout": "default"
     }
   ],
   "contact": {
-    "phone": "+234 706 817 9182",
-    "email": "info@tardyj.com.ng",
-    "address": "Suit 14 Batayas Plaza, Area 11, Abuja | Main Facility: Karu, Nigeria",
+    "phone": "07068179182",
+    "email": "info@thankyoumart.org",
+    "address": "Suite 14 Batayas Plaza, Area 11, Abuja, Nigeria",
     "whatsapp": "https://wa.me/2347068179182"
   }
 }
